@@ -1,6 +1,9 @@
 Hello World!
 ============
 
+This is basic markup
+--------------------
+
 My name is Emir Hartato
 -----------------------
     emir.hartato[at]gmail[dot]com
@@ -28,6 +31,4 @@ A numbered list:
 #. item two
 #. item three
 
-
-It's not a word processor
 
