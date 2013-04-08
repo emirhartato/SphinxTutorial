@@ -23,11 +23,7 @@ This is how you show a program listing or some preformatted text::
 Let's try a bullet list:
 
 * item one
-- Sub bullet one
-- Sub bullet two
 * item two
-- Sub bullet one
-- Sub bubllet two
 
 A numbered list:
 
