@@ -15,13 +15,15 @@ This is how you write a hyperlink: http://google.com
 
 This is how you show a program listing or some preformatted text::
 
-	sudo apt-get github
+	sudo apt-get install git
 
 Let's try a bullet list:
-# item one
-# item two
+
+* item one
+* item two
 
 A numbered list:
+
 #. item one
 #. item two
 #. item three
