@@ -34,8 +34,10 @@ A numbered list:
 Here is how to make a simple table:
 
 +------------+------------+-----------+ 
-| Name       | Address    | Phone     | 
+| **Name**   |**Address** |**Phone**  | 
 +------------+------------+-----------+ 
 | Emir       | Bogor      | 08776672  | 
 +------------+------------+-----------+ 
+
+More documentation: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 
